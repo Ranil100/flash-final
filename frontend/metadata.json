@@ -1,0 +1,6 @@
+{
+  "name": "FLASH",
+  "description": "An AI Interview and Talent Hub. Features real-time resume ATS scanners and adaptive AI mock interviews with company-specific simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
