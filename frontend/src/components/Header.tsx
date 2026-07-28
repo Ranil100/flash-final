@@ -22,7 +22,7 @@ export default function Header({ currentView, onNavigate }: HeaderProps) {
 
   useEffect(() => {
     // Check backend health
-    fetch("/api/health")
+    fetch(`${import.meta.env.VITE_BACKEND_URL}/health`)
       .then((res) => {
         if (res.ok) {
           setBackendStatus('online');
@@ -130,3 +130,4 @@ export default function Header({ currentView, onNavigate }: HeaderProps) {
     </header>
   );
 }
+
