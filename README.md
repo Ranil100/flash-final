@@ -119,3 +119,6 @@ flash/
 
 MIT
 # FLASH - AI Interview and Talent Hub
+
+Visit the technical Blog by following the link below:
+https://medium.com/@ranil8825985792/about-my-project-flash-cbc7da424648?postPublishedType=initial
