@@ -120,5 +120,8 @@ flash/
 MIT
 # FLASH - AI Interview and Talent Hub
 
+Visit the Reddit Page to Get to Know People Reviews:
+https://www.reddit.com/r/SideProject/comments/1vqs3l8/check_out_this_app_makes_you_strong_in_the/
+
 Visit the technical Blog by following the link below:
 https://medium.com/@ranil8825985792/about-my-project-flash-cbc7da424648?postPublishedType=initial
